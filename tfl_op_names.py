@@ -1,5 +1,5 @@
 TFL_OP_NAMES = [
-      "ADD",
+    "ADD",
     "AVERAGE_POOL_2D",
     "CONCATENATION",
     "CONV_2D",
