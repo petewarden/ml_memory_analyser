@@ -15,6 +15,7 @@ pip install flatbuffers==1.12.0
 | EfficientNet Lite 0 | 1,505,280 bytes |
 | EfficientNet Lite 4 | 4,050,000 bytes |
 | ResNet v2 101 | 4,320,000 bytes |
+| Whisper Tiny En | 28,152,000 bytes |
 
 
 
